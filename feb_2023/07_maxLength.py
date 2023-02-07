@@ -1,3 +1,5 @@
+# Given an array arr[] consisting of n integers, 
+# find the length of the longest subarray with positive (non zero) product.
 def product(elem):
      curr = 1
      for i in elem:
